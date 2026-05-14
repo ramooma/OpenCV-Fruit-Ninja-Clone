@@ -24,10 +24,11 @@ The game utilizes a webcam and AI-powered hand tracking to detect finger positio
 2. Ensure you have a working webcam.
 3. Run the script: `python main.py`
 4. Use your index finger to interact with the objects on the screen. Collect the items for points and dodge the bombs!
-   <br>
-<video width="100%" controls>
-  <source src="https://github.com/user-attachments/assets/a0e829f0-5055-4c52-8fd1-554fe6c92ee7" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/a0e829f0-5055-4c52-8fd1-554fe6c92ee7
+
+---
+*A fun project showcasing the integration of Computer Vision with interactive software development.*
 ---
 *A fun project showcasing the integration of Computer Vision with interactive software development.*
 
