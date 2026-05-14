@@ -1,7 +1,5 @@
 # OpenCV-Fruit-Ninja-Clone
 
-# 🎮 AI Hand-Tracking Interactive Game
-
 ### A computer vision-based game where you control the gameplay using real-time hand gestures.
 
 ## 📌 Project Overview
